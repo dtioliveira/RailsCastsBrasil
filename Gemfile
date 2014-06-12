@@ -24,7 +24,6 @@ group :development do
   gem 'spring-commands-rspec'
 end
 
-
 #TESTS
 group :test do
   gem 'shoulda-matchers', require: false
